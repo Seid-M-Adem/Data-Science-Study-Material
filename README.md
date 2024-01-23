@@ -9,7 +9,6 @@ Completed Data Science Masterclass 🚀
 - Machine Learning fundamentals with Scikit-learn
 - Feature Engineering and Model Evaluation
 - Advanced topics like Neural Networks and Deep Learning
-- Big Data processing with Apache Spark
 - Practical application of data science in real-world projects
 
 🛠️ Tools and Technologies:
