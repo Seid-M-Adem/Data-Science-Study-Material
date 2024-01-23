@@ -1,4 +1,4 @@
-# Data-Science-Course Study Material
+# Data Science Study Material
 Completed Data Science Masterclass 🚀
 
 🔍 This commit marks the completion of a comprehensive Data Science course covering key concepts, tools, and techniques.
